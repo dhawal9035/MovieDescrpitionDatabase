@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MovieDescrpitionApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="back_to_list">BackToList</string>
+    <string name="urlString">http://10.0.2.2:8080/</string>
+
+    <string-array name="genre">
+        <item>Adventure</item>
+        <item>Action</item>
+        <item>Drama</item>
+        <item>Thriller</item>
+        <item>Comedy</item>
+        <item>Biography</item>
+    </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item android:id="@+id/action_add"
+        android:icon="@mipmap/ic_action_add"
+        android:title="action_add"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/action_refresh"
+        android:icon="@drawable/ic_refresh"
+        android:title="action_refresh"
+        app:showAsAction="ifRoom" />
+    <!--<item android:id="@+id/action_search"
+        android:icon="@drawable/ic_search"
+        android:title="action_search"
+        app:showAsAction="ifRoom" />-->
+</menu>
